@@ -67,5 +67,11 @@ npx playwright test tests/Positive_Tests.spec.js
 
 ## Configuration
 
-Base URL: `https://jsonplaceholder.typicode.com/`
+Base URL: `https://jsonplaceholder.typicode.com`
+
+
+## Report
+Report will be generated after running the test. You will find the report in **playwright-report** folder.
+
+<img width="1920" height="2817" alt="screencapture-127-0-0-1-5500-playwright-report-index-html-2025-12-20-21_52_34" src="https://github.com/user-attachments/assets/45883c23-df7b-4029-b3de-b9cc322dfcfe" />
 
